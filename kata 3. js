@@ -1,0 +1,6 @@
+
+Link: https://www.codewars.com/kata/53369039d7ab3ac506000467)
+Description: Convertir valores booleanos en cadenas 'Si' o 'No'
+function boolToWord( bool ){
+  return bool? "Yes": "No";
+}
